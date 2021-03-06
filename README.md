@@ -1,0 +1,1 @@
+# nextjs-getInitialProps-bug
